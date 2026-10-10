@@ -16,7 +16,7 @@
 | [SJ-3523-SMT-TR Headphone Jack](https://www.digikey.com/en/products/detail/same-sky-formerly-cui-devices/SJ-3523-SMT-TR/281297) | CW and Audio Connections | 3 | $0.88 | $2.64 | [DigiKey](https://www.digikey.com/en/products/detail/same-sky-formerly-cui-devices/SJ-3523-SMT-TR/281297) |
 | [OLED Display](https://www.amazon.com/AITRIP-Display-Self-Luminous-Compatible-Raspberry/dp/B0F5WPZJ92?ref_=pd_ci_mcx_mh_pe_im_d1_hxwPPE_sspa_dk_det_cai_p_16_1&pd_rd_i=B0F5WPZJ92&pd_rd_w=kTXyJ&content-id=amzn1.sym.4a6480f2-00b3-4e33-a59d-ae768449426b&pf_rd_p=4a6480f2-00b3-4e33-a59d-ae768449426b&pf_rd_r=W3K168CPN541BX9N40HR&pd_rd_wg=feuqM&pd_rd_r=8a369d32-56d7-4998-965e-cde3fd20de62&th=1) | Interfacing and like doing menus | 1 | $11.99 | $11.99 | [Amazon](https://www.amazon.com/AITRIP-Display-Self-Luminous-Compatible-Raspberry/dp/B0F5WPZJ92?ref_=pd_ci_mcx_mh_pe_im_d1_hxwPPE_sspa_dk_det_cai_p_16_1&pd_rd_i=B0F5WPZJ92&pd_rd_w=kTXyJ&content-id=amzn1.sym.4a6480f2-00b3-4e33-a59d-ae768449426b&pf_rd_p=4a6480f2-00b3-4e33-a59d-ae768449426b&pf_rd_r=W3K168CPN541BX9N40HR&pd_rd_wg=feuqM&pd_rd_r=8a369d32-56d7-4998-965e-cde3fd20de62&th=1) |
 | **Parts subtotal** | — | — | — | **$25.63** | — |
-| **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$25.63** | — |
+| **Tax & shipping** | — | — | — | **$7.76** | — |
+| **Total** | — | — | — | **$33.39** | — |
 
-$4.37 left of the tier's funding.
+**$3.39 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
