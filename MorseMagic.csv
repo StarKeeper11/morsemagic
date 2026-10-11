@@ -1,0 +1,5 @@
+"Reference","Qty","Value","DNP","Exclude from BOM","Exclude from Board","Exclude from Simulation","Exclude from Position Files","Footprint","Datasheet"
+"DS1","1","OLED_128X64_1.3_I2C","","","","","${EXCLUDE_FROM_POS_FILES}","OLED_128X64_1.3_I2C (1):LCD_OLED_128X64_1.3_I2C",""
+"J3","1","AudioIn","","","","","${EXCLUDE_FROM_POS_FILES}","Connector_Audio:Jack_3.5mm_CUI_SJ-3523-SMT_Horizontal",""
+"J4,J5","2","CWIn","","","","","${EXCLUDE_FROM_POS_FILES}","Connector_Audio:Jack_3.5mm_CUI_SJ-3523-SMT_Horizontal",""
+"U3","1","ESP32-DevKitC","","","","","${EXCLUDE_FROM_POS_FILES}","ESP32-DEVKITC:MODULE_ESP32-DEVKITC","https://docs.espressif.com/projects/esp-idf/zh_CN/latest/esp32/hw-reference/esp32/get-started-devkitc.html"
